@@ -10,7 +10,11 @@ employees <- function(no_employees){
   
   for (i in 1:no_employees) {
     Gender <- sample(gender, 1)
-    Salary <- sample(seq(salary_range[1], salary_range[2]), 1)
+    
+     Salary <- tryCatch(
+      sample(seq(salary_range[1], salary_range[2]), 1),
+      error = function(e) return("Adjust salary_range")
+       )
     
     Level  <- 'NA'
     
