@@ -15,11 +15,11 @@ The program should accomplish the following tasks:
 <li>Add exception handling to your Python code to address potential errors.</li>
 
 #### Steps:
-i. The program started by laying the constant and assigning them variables
-ii. Then a function was created that contains the number of employees
-iii. A for loop was used to iterate through the employees and assigned them a salary, a level (with conditional statement), gender, using their employee id
-iv. they were appened to an empty list
-v. A payment file was created from the list.
+<li> The program started by laying the constant and assigning them variables</li>
+<li> Then a function was created that contains the number of employees</li>
+<li> A for loop was used to iterate through the employees and assigned them a salary, a level (with conditional statement), gender, using their employee id</li>
+<li> they were appened to an empty list</li>
+<li> A payment file was created from the list.</li>
 
 The task is both in **python** and **R** 
 
