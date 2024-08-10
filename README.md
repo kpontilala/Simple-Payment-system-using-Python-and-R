@@ -1,5 +1,5 @@
 # Simple-Payment-system-using-Python-and-R
-Description: A payment list system for Highridge Construction Company using python and R programming language. 
+Description: A list payment system for Highridge Construction Company using python and R programming language. 
 
 ## Question:
 In this assignment, you will act as a software engineer contracted by Highridge Construction Company. Your task is to develop a Python program to facilitate the weekly payments of workers. 
