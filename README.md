@@ -21,6 +21,8 @@ The program should accomplish the following tasks:
 <li> they were appened to an empty list</li>
 <li> A payment file was created from the list.</li>
 
+In this program we created a dynamic payment list for the employees of highridge construction.
+
 The task is both in **python** and **R** 
 
 
